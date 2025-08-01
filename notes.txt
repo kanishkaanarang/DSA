@@ -1,0 +1,40 @@
+# terminal commands to compile and run java code
+javac fileName.java
+java fileName
+
+
+# DATATYPES: 
+1. string
+2. integer
+3. float
+4. double 
+
+assigning values to the variables:
+ex. int x = 5;
+
+# ARITHMETIC OPERATORS:
+1. addition: a + b
+2. subtraction: a - b
+3. multiplication: a * b
+4. division: a / b
+5. modulus: a % b
+
+# RELATIONAL OPERATORS:
+1. equal to: a == b
+2. not equal to: a != b
+3. greater than: a > b
+4. less than: a < b
+5. greater than or equal to: a >= b
+6. less than or equal to: a <= b
+
+# LOGICAL OPERATORS:
+1. and: a && b
+2. or: a || b
+3. not: !a
+
+# BITWISE OPERATORS:
+1. bitwise and: a & b
+2. bitwise or: a | b
+3. bitwise xor: a ^ b
+4. bitwise not: ~a
+
