@@ -38,3 +38,29 @@ ex. int x = 5;
 3. bitwise xor: a ^ b
 4. bitwise not: ~a
 
+
+
+#CONDITIONALS SYNTAX:
+if (condition) {
+    // code to be executed if condition is true
+}
+else if (condition){
+    // code to be executed if condition is true
+}
+else{
+    // code to be executed if condition is false
+}
+
+
+# LOOPS SYNTAX:
+1. for loop: for (initialization; condition; increment) {
+    // code to be executed
+}
+2. while loop: while (condition) {
+    // code to be executed
+}
+3. do-while loop: do {
+    // code to be executed
+} while (condition);
+
+
