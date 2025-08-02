@@ -1,5 +1,6 @@
 
 import java.util.Scanner;
+// *, Scanner, Random
 
 public class input {
     public static void main(String[] args) {

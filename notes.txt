@@ -58,9 +58,11 @@ else{
 }
 2. while loop: while (condition) {
     // code to be executed
+    //increment
 }
 3. do-while loop: do {
     // code to be executed
+    //incr
 } while (condition);
 
 
