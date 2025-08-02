@@ -64,6 +64,3 @@ else{
 } while (condition);
 
 
-hi guys , i'm explaining to you how vs code works w git and github
-lets suppose i made a change in this file and now i want to push this to the github repo of mine 
-(if it is alr created and like attached to this folder so what we have to do is: )
