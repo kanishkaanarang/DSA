@@ -1,0 +1,22 @@
+HI !!!
+
+Welcome to Kanishka's YouTube Channel
+I just started my channel and I'm super excited to share my content with you all. 
+I'll be sharing my knowledge on Java and DSA (Data Structures and Algorithms) with you all.
+As I do it, I will be explaining what I understood...
+This is my first video, so please bear with me if I make any mistakes.
+
+I'll be sharing what I understand about the topic, and I'll try my best to explain it in simple terms.
+This will help me to track my progress and also learn to share and explain the concepts.
+
+SO LET'S GET STARTED !!!
+
+A little introduction about me
+I am Kanishka Narang.
+I am 19 years old.
+I am a 2nd year student at Maharaja Agrasen Institute of technology.
+I am pursuing B.Tech in Computer Science and Engineering- AIML.
+I aspire to become a software engineer at any of the companies amongst FAANG (Google to be specific).
+I am passionate about coding and learning new things.
+I am a beginner in the field of Data Structures and Algorithms.
+I am excited to share my knowledge with you all.
